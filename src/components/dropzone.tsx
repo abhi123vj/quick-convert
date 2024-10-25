@@ -445,7 +445,7 @@ export default function Dropzone() {
       {({ getRootProps, getInputProps }) => (
         <div
           {...getRootProps()}
-          className=" bg-transparent hover:bg-slate-50 h-72 lg:h-80 xl:h-96 rounded-3xl shadow-sm border-secondary border-2 border-dashed cursor-pointer flex items-center justify-center"
+          className=" bg-transparent  h-72 lg:h-80 xl:h-96 rounded-3xl shadow-sm border-secondary border-2 border-dashed border-slate-500  cursor-pointer flex items-center justify-center"
         >
           <input {...getInputProps()} />
           <div className="space-y-4 text-foreground">

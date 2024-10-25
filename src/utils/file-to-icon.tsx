@@ -1,3 +1,4 @@
+"use client";
 // imports
 import {
   BsFillImageFill,
