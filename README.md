@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Image Conversion](https://img.shields.io/badge/Image%20Conversion-FF6F61?style=for-the-badge&logo=imagemagick&logoColor=white)](https://imagemagick.org/)
+[![Image Conversion](https://img.shields.io/badge/Image%20Conversion-FF6F61?style=for-the-badge&logo=imagemagick&logoColor=white)](https://ffmpeg.org/)
 [![Audio Conversion](https://img.shields.io/badge/Audio%20Conversion-3E8EDE?style=for-the-badge&logo=ffmpeg&logoColor=white)](https://ffmpeg.org/)
 [![Video Conversion](https://img.shields.io/badge/Video%20Conversion-FF5722?style=for-the-badge&logo=ffmpeg&logoColor=white)](https://ffmpeg.org/)
 [![Web Application](https://img.shields.io/badge/Web%20App-4CAF50?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
@@ -33,11 +33,10 @@ Quick Convert is a powerful online tool designed to facilitate unlimited and fre
 
 <div align="center">
 
-| Technology      | Purpose                       |
-|-----------------|-------------------------------|
-| React.js        | Frontend Framework             |
-| Node.js         | Backend Services               |
-| Express.js      | Web Framework                  |
+| Technology      | Purpose                        |
+|-----------------|--------------------------------|
+| Next.js         | Frontend Framework             |
+| Bun             | JavaScript Runtime             |
 | FFmpeg          | Multimedia Processing          |
 
 </div>
