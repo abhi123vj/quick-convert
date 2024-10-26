@@ -44,7 +44,7 @@ export default function Navbar() {
                         About
                     </Button>
                 </Link>
-                <Link href="/privacy-policy">
+                {/* <Link href="/privacy-policy">
                     <Button 
                         variant="ghost" 
                         className={cn(
@@ -54,7 +54,7 @@ export default function Navbar() {
                     >
                         Privacy Policy
                     </Button>
-                </Link>
+                </Link> */}
             </div>
             <div className="items-center hidden gap-2 md:flex">
                 <ModeToggle />
@@ -108,7 +108,7 @@ export default function Navbar() {
                                         </Button>
                                     </Link>
                                 </SheetTrigger>
-                                <SheetTrigger asChild>
+                                {/* <SheetTrigger asChild>
                                     <Link href="/privacy-policy">
                                         <Button 
                                             variant="link" 
@@ -120,7 +120,7 @@ export default function Navbar() {
                                             Privacy Policy
                                         </Button>
                                     </Link>
-                                </SheetTrigger>
+                                </SheetTrigger> */}
                                 <ModeToggle />
                             </div>
                         </SheetDescription>
